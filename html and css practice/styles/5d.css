@@ -1,0 +1,30 @@
+p {
+    text-align: center;
+    font-family: arial;
+  }
+
+
+  .heading {
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 0px;
+
+  }
+
+  .subhead {
+    font-weight: 500;
+
+  }
+
+  .button {
+    text-align: center;
+    color: hwb(206 0% 24%);
+    font-weight: 400;
+    margin-top: 20px;
+
+  }
+
+  .button:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }

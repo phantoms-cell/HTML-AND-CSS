@@ -1,0 +1,45 @@
+.box {
+  display: inline-block;
+  box-shadow: 1px 1px 10px lab(0% 0 0 / 0.25098039215686274);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 25px;
+  border-radius: 10px;
+  margin-left: 26%;
+  margin-top: 10%;
+  
+  
+}
+
+
+.id {
+  height: 60px;
+  width: 60px;
+  object-fit: cover;
+  border-radius: 30px;
+  border: 0px;
+  vertical-align: middle;
+  
+}
+
+.message-bar {
+  display: inline-block;
+  font-size: 20px;
+  color: hwb(0 40% 59%);
+  font-weight: 450;
+}
+
+.button {
+  width: 80px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  background-color: #1DA1F2;
+  margin-left: 115px;
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+
+
+}

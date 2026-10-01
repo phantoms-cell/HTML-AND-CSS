@@ -1,0 +1,29 @@
+.email {
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+
+.search-bar {
+  width: 558px;
+  height: 45px;
+  border: solid;
+  border-radius: 7px;
+  font-size: 22px;
+
+
+}
+
+.warning {
+  font-size: 23px;
+}
+
+.join-button {
+  background-color: hwb(221 2% 7% / 0.7372549019607844);
+  color: white;
+  width: 566px;
+  height: 80px;
+  border: none;
+  border-radius: 30px;
+  font-size: 30px;
+  font-weight: 400;
+}

@@ -1,0 +1,42 @@
+.box {
+  width: 250px;
+  height: 390px;
+  display: inline-block;
+  box-shadow: 1px 1px 10px lab(0% 0 0 / 0.24705882352941178);
+  margin-left: 20px;
+  border-radius: 5px;
+}
+.cat {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  padding-top: 0px;
+  vertical-align: top;
+  
+}
+
+.name {
+  font-weight: 650;
+  margin-top: 9px;
+  margin-left: 8px;
+  font-size: 25px;
+  margin-bottom: 0px;
+  
+}
+.friends{
+  font-size: 19px;
+  margin: 0px 8px;
+  color: lab(0% 0 0 / 0.6274509803921569);
+  font-weight: 450;
+}
+
+.add{
+  font-size: 21px;
+  background-color: #006ae6e6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-left: 8px;
+  margin-top: 13px; 
+}

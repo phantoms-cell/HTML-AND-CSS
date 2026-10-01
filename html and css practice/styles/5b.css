@@ -1,0 +1,15 @@
+.deals{
+    font-family: arial;
+    font-weight: bold;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-size: 25px;
+  }
+
+  .sales{
+    font-family: arial;
+    margin-top: 0px;
+    font-style: italic;
+    color: red;
+    
+  }

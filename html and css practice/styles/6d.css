@@ -1,0 +1,22 @@
+.model-no {
+  font-weight: 700;
+  text-align: center;
+  font-size: 70px;
+  margin-bottom: 0px;
+  margin-top: 30px;
+  font-family: montserrat;
+
+}
+
+.last-line {
+  text-align: center;
+  font-size: 32px;
+  margin-top: 22px;
+  font-family: montserrat;
+  font-weight: 400;
+}
+
+.delivery {
+  text-decoration: underline;
+
+}

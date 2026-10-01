@@ -1,0 +1,23 @@
+.google-img{
+  height: 140px;
+  margin-left: 345px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  display: block;
+  margin-top: 19px;
+
+}
+
+.search-bar{
+  height: 35px;
+  width: 550px;
+  margin-left: 193px;;
+  margin-top: 5px;
+  font-size: 18px;
+  display: block;
+  border-radius: 50px;
+  padding-left: 15px;
+  border: none;
+  box-shadow: 0.5px 0.5px 10px lab(0% 0 0 / 0.1843137254901961);
+  
+}

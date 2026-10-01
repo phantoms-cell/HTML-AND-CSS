@@ -1,0 +1,35 @@
+p {
+  font-family: Verdana, Geneva, sans-serif;
+
+}
+
+.course-tittle {
+  font-weight: 800;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.b-p {
+  font-weight: 400;
+  margin-top: 0px;
+  color: lab(0% 0 0 / 0.6235294117647059)
+}
+
+.para {
+  font-weight: 500;
+
+}
+
+
+.start-button {
+  background-color: green;
+  padding-right: 15px;
+  color: white;
+  border-radius: 8px;
+  border: solid;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  cursor: pointer;
+
+}

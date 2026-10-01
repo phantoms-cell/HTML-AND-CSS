@@ -1,0 +1,28 @@
+p{
+  font-family: arial;
+  font-weight: 450;
+  font-size: 27px;
+  color: lab(0% 0 0 / 0.6470588235294118);
+  margin: 0px 0px;
+}
+
+.usd{
+  font-size: 50px;
+  color: black;
+  
+}
+
+.today{
+  color: green;
+  margin-bottom: 8px;
+  
+}
+.per{
+  margin-right: auto;
+}
+
+
+.last{
+  color: hwb(0 2% 18%);
+} 
+

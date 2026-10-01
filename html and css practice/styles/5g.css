@@ -1,0 +1,25 @@
+p {
+    font-family: arial;
+    font-weight: 450;
+    font-size: 20px;
+    width: 650;
+  }
+
+  .about-id {
+    font-weight: 800;
+    margin-bottom: 7px;
+  }
+
+  .id {
+    color: #0000008b;
+    font-weight: 450
+  }
+
+  .description {
+    margin: 0px 0px;
+
+  }
+
+  .link {
+    color: hwb(203 0% 25% / 0.803921568627451);
+  }

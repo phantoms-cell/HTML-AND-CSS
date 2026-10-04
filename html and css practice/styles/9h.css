@@ -6,16 +6,16 @@
 
 
 .google-img{
-  height: 140px;
+ 
   margin-top: 19px;
-  
+  width: 272px;
 
 }
 
 .search-bar{
   height: 42px;
   width: 550px;
-  margin-left: 193px;;
+  margin: 0 auto;
   margin-top: 5px;
   font-size: 18px;
   display: block;
@@ -26,10 +26,22 @@
   
 }
 
-.b1{
+.btn {
   margin-top: 19px;
   font-size:16px;
-  background-color: lab(0% 0 0 / 0.06274509803921569);
-  border: none;
+  background-color: #f8f9fa;
+  border-color: 1px white;
   padding-left: 10px;
+  border:none;
+  cursor:pointer;
+
 }
+
+.btn:hover { 
+  border-color: hsla(0, 0%, 98%, 0.507);
+  background-color: #f1f3f400;
+  }
+  
+
+
+
